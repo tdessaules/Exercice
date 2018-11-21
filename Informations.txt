@@ -1,1 +1,3 @@
-Ce document contient les informations du projet
+Ce fichier contient les informations du projet.
+
+pleins de modifications seront ajoutés à ce projet!!!
